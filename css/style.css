@@ -1,0 +1,630 @@
+  .headera .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+ 
+   .logo .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+   .about .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+ .portfolio .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+ 
+   .service .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+ 
+   .review .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+   .pricing .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+ .contactus .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+ .teamp .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+ 
+  .ta .wrapper
+{
+  width:80%;
+	margin:auto;
+ }
+ 
+
+ .headera
+{
+	background-color:beige;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+
+	background-color:beige;
+	height:81px;
+	justify-content:space-evenly;
+	
+}
+.headera .headera-fc .heada
+{
+	background-color:cadetblue;
+	height:40px;
+	width:15%;
+	margin-top:10px;
+	
+}
+
+.headera .headera-fc .headb
+{
+	background-color:cadetblue;
+	height:40px;
+	width:15%;
+		margin-top:15px;
+}
+.headera .headera-fc  .headc
+{
+	background-color:cadetblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .headd
+{
+	background-color:cadetblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .heade
+{
+	background-color:cadetblue;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.logo 
+{
+	background-color:pink;
+	height:500px;
+}
+.logo .logo-fc
+{
+display:flex;
+flex-direction:row;
+flex-wrap:wrap;
+justify-content:center;
+	
+}
+.logo .logo-fc .logob
+{
+	background-color:steelblue;
+	height:100px;
+	width:40%;
+	margin-top:150px;
+}
+
+
+.about
+{
+	background-color:ivary;
+	height:790px;
+}
+.about .about-fc  
+{
+	display:flex;
+	flex direction:row;
+	justify-content:space-evenly;
+}
+.about .about-fc .abboxa 
+{
+	background-color:deepskyblue;
+	height:650px;
+	width:30%;
+	margin-top:70px;
+}
+
+.about .about-fc .ab
+{
+	background-color:turquoise;
+	height:650px;
+	width:65%;
+	margin-top:70px;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;	
+		justify-content:space-evenly;
+		
+}
+.about .about-fc .ab .conaa
+{
+	background-color:navy;
+	height:200px;
+	width:46%;
+	margin-top:30px
+}
+.about .about-fc .ab .conab
+{
+		background-color:navy;
+	height:200px;
+	width:46%;
+	margin-top:30px
+}
+.about .about-fc .ab .conac
+{
+	background-color:navy;
+	height:150px;
+	width:80%;
+margin-top:30px;
+}
+
+
+.portfolio
+{
+	background-color:silver;
+
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .textport
+{
+	text-align:center;
+	width:100%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .porta
+{
+	background-color:yellowgreen;
+	height:400px;
+		width:46%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portb
+{
+background-color:yellowgreen;
+	height:400px;
+		width:46%;
+			margin-top:30px;
+
+}
+.portfolio .portfolio-fc .portc
+{
+	background-color:yellowgreen;
+	height:400px;
+		width:46%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portd
+
+{
+	background-color:yellowgreen;
+	height:400px;
+		width:46%;
+			margin-top:30px;
+}
+
+
+.service
+{
+		background-color: lightblue;
+	height:600px;
+}
+.service .service-fc
+
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+
+}
+.service .service-fc .ser
+{
+	text-align:center;
+margin-top:50px;
+width:100%
+}
+.service .service-fc .tempa 
+
+{
+	background-color:coral;
+	height:350px;
+	width:22%;
+	margin-top:15px;
+
+}
+.service .service-fc .tempb
+{
+		background-color:coral;
+	height:350px;
+	width:22%;
+	margin-top:15px;
+}
+.service .service-fc .tempc
+{
+background-color:coral;
+	height:350px;
+	width:22%;
+	margin-top:15px;
+}
+.service .service-fc .tempd
+{
+background-color:coral;
+	height:350x;
+	width:22%;
+	margin-top:15px;
+}
+.service .service-fc .tempd
+{
+background-color:coral;
+	height:350px;
+	width:22%;
+	margin-top:15px;
+}
+
+.review
+{
+	background-color:lightpink;
+	height:600px;
+}
+.review .review-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.review .review-fc .reviewtext
+{
+	text-align:center;
+	width:100%;
+margin-top:100px;
+}
+.review .review-fc .reviewa
+{
+	background-color:lightgreen;
+	height:304px;
+	width:31%;
+	margin-top:100px;
+} 
+.teamp
+{
+	background-color:lightgreen;
+	height:150px;
+}
+.teamp .teamp-fc
+{
+	display:flex;
+	flex-direction:row;
+justify-content:space-evenly;
+flex-wrap:wrap;
+	
+}
+.teamp .teamp-fc .hp
+{
+	text-align:center;
+	width:100%;
+	margin-top:10px;
+	
+}
+.teamp .teamp-fc  .ha
+{
+	background-color:cadetblue;
+	height:60px;
+	width:10%;
+	margin-top:10px;
+	
+}
+
+.teamp .teamp-fc  .hb
+{
+	background-color:cadetblue;
+	height:60px;
+	width:10%;
+	margin-top:10px;
+}
+.teamp .teamp-fc .hc
+{
+	background-color:cadetblue;
+	height:60px;
+	width:10%;
+	margin-top:10px;
+}
+.teamp .teamp-fc .hd
+{
+	background-color:cadetblue;
+	height:60px;
+	width:10%;
+	margin-top:10px;
+}
+
+
+.ta
+{
+		background-color:lightgreen;
+
+} 
+
+.ta .ta-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly
+}
+
+.ta .ta-fc .teampa
+{
+	background-color:lightpink;
+	height:424px;
+		width:31%;
+		margin-top:10px;
+}
+.ta .ta-fc  .teampb
+{
+	background-color:lightpink;
+	height:272px;
+			width:31%;
+		margin-top:10px;
+	
+}
+.ta .ta-fc .teampc
+{
+	background-color:lightpink;
+	height:243px;
+			width:31%;
+		margin-top:10px;
+}
+
+.ta .ta-fc .teampd
+{
+	background-color:lightpink;
+	height:555px;
+			width:31%;
+		margin-top:10px;
+}
+
+.ta .ta-fc .teampe
+{
+	background-color:lightpink;
+	height:424px;
+		width:31%;
+		margin-top:10px;
+}
+.ta .ta-fc .teampf
+{
+	background-color:lightpink;
+	height:250px;
+			width:31%;
+		margin-top:10px;
+}
+.ta .ta-fc .teampg
+{
+	background-color:lightpink;
+	height:250px;
+			width:31%;
+		margin-top:10px;
+}
+.ta .ta-fc .teamph
+{
+	background-color:lightpink;
+	height:250px;
+			width:31%;
+		margin-top:10px;
+}
+.ta .ta-fc .teampi
+{
+	background-color:lightpink;
+	height:250px;
+			width:31%;
+		margin-top:10px;
+}
+
+.pricing 
+{
+	background-color:lightblue;
+	height:710px;
+}
+.pricing  .pricing-fc
+{
+
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.pricing  .pricing-fc .pric
+{
+	text-align:center;
+	width:100%;
+	margin-top:20px;
+}
+.pricing  .pricing-fc .blogtext 
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+}
+.pricing  .pricing-fc .bloga
+{
+	background:gray;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+
+}
+.pricing  .pricing-fc .bloga .blogbut
+{
+	background-color:pink;
+	width:100%;
+	margin-top:370px;
+	
+}
+
+.pricing  .pricing-fc .blogb
+{
+background:gray;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+}
+.pricing  .pricing-fc .blogb .blogbuta
+{
+	background-color:pink;
+	width:100%;
+	margin-top:370px;
+}
+
+.pricing  .pricing-fc .blogc
+{
+background:gray;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+}
+.pricing  .pricing-fc .blogc .blogbutb
+{
+	background-color:pink;
+	width:100%;
+	margin-top:370px;
+}
+
+.contactus
+{
+	background-color:beige;
+	height:615px;
+}
+.contactus .contactus-fc
+{
+display:flex;
+flex-direction:row;
+justify-content:space-between;
+flex-wrap:wrap;	
+}
+.contactus .contactus-fc .context
+{
+	text-align:center;
+	margin-top:10px;
+	width:100%;
+}
+
+.contactus .contactus-fc .cona
+{
+	background-color:gray;
+	height:500px;
+	width:46%;
+	margin-top:10px;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;	
+		justify-content:space-evenly;
+		
+}
+.contactus .contactus-fc .cona .conaa
+{
+	background-color:orangered;
+	height:200px;
+	width:100%;
+	margin-top:20px;
+}
+.contactus .contactus-fc  .cona .conab
+{
+	background-color:orangered;
+	height:200px;
+	width:43%;
+	margin-top:20px;
+}
+.contactus .contactus-fc .cona .conac
+{
+	background-color:orangered;
+	height:200px;
+	width:43%;
+	margin-top:20px;
+}
+
+.contactus .contactus-fc .conb
+{
+	background-color:cyan;
+	height:500px;
+	width:46%;
+	margin-top:10px;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;	
+		justify-content:space-evenly;
+		
+}
+
+.contactus .contactus-fc .conb .conba
+{
+	background-color:crimson;
+	height:30px;
+	width:40%;
+	margin-top:400px;
+}
+
+.website
+{
+	background-color :crimson;
+	height:410px;
+}
+.website .website-fc
+{
+	display:flex;
+	flex-direction:coloumn;
+	justify-content:space-evenly;
+	
+}
+
+.website .website-fc .copyrighta
+{
+	background-color:black;
+	width:30%;
+	height:100px;
+	margin-top:100px;
+}
+.website .website-fc .copyrightb
+{
+	background-color:lavender;
+	width:20%;
+	height:100px;
+	margin-top:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
